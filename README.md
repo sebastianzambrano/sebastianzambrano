@@ -1,4 +1,6 @@
-## Hola, soy Sebastian 👋
+## Hi there, I'm Juan Sebastian Zambrano Pastrana 👋
+
+Industrial Engineer and Systems Engineering student passionate about software development and process optimization. Experienced in analysis, design, and system improvement. Committed to creating efficient and innovative solutions that drive growth and digital transformation.
 
 ## Skills:
 
